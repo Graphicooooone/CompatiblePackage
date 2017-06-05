@@ -3,6 +3,10 @@ iOS7 Compatible package
 
 >iOS7兼容方案 
 
+## UIStackView
+https://github.com/forkingdog/FDStackView
+低版本直接使用
+
 ## UIAlertController 
 https://github.com/GJGroup/GJAlertController
 低版本直接使用
