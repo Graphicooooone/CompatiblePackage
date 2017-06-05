@@ -1,8 +1,9 @@
 # CompatiblePackage
+</br></br>
+>iOS7兼容方案 </br>
 iOS7 Compatible package
-</br></br>
->iOS7兼容方案 
-</br></br>
+
+
 ## UIStackView
 https://github.com/forkingdog/FDStackView</br>
 低版本直接使用
